@@ -5,10 +5,9 @@
 La teoría de la complejidad computacional estudia la eficiencia de los algoritmos en función del tiempo y espacio requeridos para resolver problemas. Dentro de esta teoría, la clase de problemas P (polinomial) juega un papel fundamental, ya que representa los problemas de decisión que pueden resolverse de manera eficiente con una Máquina de Turing Determinista (MTD).
 
 ## Definición de P
+La clase P está conformada por todos los problemas de decisión que pueden resolverse en tiempo polinomial con una MTD. Formalmente, un problema pertenece a P si existe un algoritmo que lo resuelve en O(n^k), donde n es el tamaño de la entrada y k es una constante.
 
-La clase P está compuesta por todos los problemas de decisión que pueden resolverse mediante una máquina de Turing determinista en tiempo polinomial. Esto significa que, dado un problema en P, existe un algoritmo que puede resolverlo en un tiempo que es una función polinómica del tamaño de la entrada.
-
-Formalmente, un lenguaje \( L \) pertenece a P si existe una máquina de Turing determinista \( M \) y un polinomio \( p(n) \) tal que para toda entrada \( x \), \( M \) decide si \( x \in L \) en un número de pasos \( O(p(|x|)) \).
+En términos prácticos, esto significa que los problemas en P pueden resolverse con algoritmos eficientes que son factibles en la práctica para valores razonables de n.
 
 ## Ejemplos de Problemas en P
 

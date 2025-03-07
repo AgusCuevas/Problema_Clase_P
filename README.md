@@ -38,6 +38,6 @@ La clase P es considerada la clase de problemas "fácilmente computables", ya qu
 
 ## Conclusión
 
-Los problemas en P son fundamentales en la teoría de la complejidad computacional y en la práctica de la informática. Su estudio permite diseñar algoritmos eficientes y establecer los límites de la computación factible. La pregunta de si P = NP sigue siendo un problema abierto y su resolución tendría implicaciones profundas en la informática, matemáticas y muchas otras disciplinas.
+Los problemas en la clase P son fundamentales en la teoría de la complejidad computacional, ya que representan los problemas que pueden resolverse de manera eficiente en una computadora. Su estudio permite identificar algoritmos prácticos y determinar los límites de la computación factible. Además, la relación entre P y NP sigue siendo uno de los mayores problemas abiertos en informática, con profundas implicaciones en criptografía, inteligencia artificial y optimización. Resolver esta cuestión podría revolucionar muchas áreas de la ciencia y la tecnología, cambiando nuestra comprensión sobre lo que realmente es computable en un tiempo razonable.
 
 ## 

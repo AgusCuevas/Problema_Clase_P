@@ -13,10 +13,9 @@ En términos prácticos, esto significa que los problemas en P pueden resolverse
 
 Algunos ejemplos clásicos de problemas en P incluyen:
 
-- **Ordenamiento de números** (QuickSort, MergeSort, HeapSort) con una complejidad \( O(n \log n) \).
-- **Búsqueda en un arreglo ordenado** con \( O(\log n) \) usando búsqueda binaria.
-- **Multiplicación de matrices** con \( O(n^3) \), aunque algoritmos más eficientes como el de Strassen mejoran esta cota.
-- **Camino más corto en un grafo ponderado** (algoritmo de Dijkstra) con \( O(V^2) \) o \( O(E + V \log V) \) si se usa una cola de prioridad.
+- **Ordenamiento de números** (QuickSort, MergeSort, HeapSort) con una complejidad de O(n log n).
+- **Búsqueda en Grafos** con con una complejidad de O(n + m), donde n es el número de nodos y m el número de aristas.
+- **Multiplicación de matrices** con una complejidad aproximada de O(n^2.37) usando algoritmos como el de Strassen.
 
 ## Relación con NP y NP-completos
 

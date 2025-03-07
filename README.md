@@ -36,6 +36,15 @@ Estos problemas son importantes en el estudio de la paralelización de algoritmo
 
 La clase P es considerada la clase de problemas "fácilmente computables", ya que un problema que se resuelve en tiempo polinomial es generalmente tratable en la práctica. La clasificación de un problema como perteneciente a P permite a los diseñadores de algoritmos buscar soluciones eficientes en lugar de métodos de fuerza bruta exponenciales.
 
+
+##📌 Relación con la Vida Cotidiana
+
+✅ Motores de búsqueda (Google) → Usan algoritmos en P para ordenar y buscar información de manera eficiente.
+✅ Redes sociales → Los algoritmos de recomendación (como en TikTok o Instagram) usan problemas en P para analizar miles de datos en segundos.
+✅ Ciberseguridad → Los sistemas de encriptación dependen de que ciertos problemas NO estén en P para ser seguros.
+
+💡 La clase P nos ayuda a entender por qué algunas tareas pueden realizarse rápido y otras no, impactando directamente en la tecnología que usamos a diario. 🚀
+
 ## Conclusión
 
 Los problemas en la clase P son fundamentales en la teoría de la complejidad computacional, ya que representan los problemas que pueden resolverse de manera eficiente en una computadora. Su estudio permite identificar algoritmos prácticos y determinar los límites de la computación factible. Además, la relación entre P y NP sigue siendo uno de los mayores problemas abiertos en informática, con profundas implicaciones en criptografía, inteligencia artificial y optimización. Resolver esta cuestión podría revolucionar muchas áreas de la ciencia y la tecnología, cambiando nuestra comprensión sobre lo que realmente es computable en un tiempo razonable.

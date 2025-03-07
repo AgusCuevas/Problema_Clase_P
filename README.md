@@ -28,10 +28,12 @@ Dentro de NP existen los problemas NP-completos, que son al menos tan difíciles
 La clase P es considerada la clase de problemas "fácilmente computables", ya que un problema que se resuelve en tiempo polinomial es generalmente tratable en la práctica. La clasificación de un problema como perteneciente a P permite a los diseñadores de algoritmos buscar soluciones eficientes en lugar de métodos de fuerza bruta exponenciales.
 
 
-##📌 Relación con la Vida Cotidiana
+## 📌 Relación con la Vida Cotidiana
 
 ✅ Motores de búsqueda (Google) → Usan algoritmos en P para ordenar y buscar información de manera eficiente.
+
 ✅ Redes sociales → Los algoritmos de recomendación (como en TikTok o Instagram) usan problemas en P para analizar miles de datos en segundos.
+
 ✅ Ciberseguridad → Los sistemas de encriptación dependen de que ciertos problemas NO estén en P para ser seguros.
 
 💡 La clase P nos ayuda a entender por qué algunas tareas pueden realizarse rápido y otras no, impactando directamente en la tecnología que usamos a diario. 🚀
